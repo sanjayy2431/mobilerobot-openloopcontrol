@@ -11,7 +11,6 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 Measure the track.
-
 <br/>
 
 Step2:
