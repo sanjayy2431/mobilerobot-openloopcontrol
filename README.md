@@ -115,7 +115,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+   https://youtu.be/6Ji7sAc5dok?si=zjEY9UrDXn1VZr95
 
 <br/>
 <br/>
@@ -126,7 +126,7 @@ Upload your video in Youtube and paste your video-id here
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 
-  https://youtu.be/6Ji7sAc5dok?si=zjEY9UrDXn1VZr95
+  
 
 ```
 Mobile Robotics Laboratory
